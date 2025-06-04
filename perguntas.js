@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    '',
-    'O Python é uma linguagem de programação'
+    'bíblico',
+    'quem foi o assistente do profeta Elias',
+    'Eliseu'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'bíblico',
+    'quem foi lançado na cova dos leões?',
+    'Daniel'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'bíblico',
+    'Na transfiguração, quem apareceu ao lado de Jesus?',
+    'Eliseu e Moisés'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'bíblico',
+    'Quantos discípulos tinha Jesus?',
+    '12'
 )
